@@ -4,7 +4,13 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Website
-    url: https://home.vatsca.org
+    url: https://vatsim-scandinavia.org
+  - name: Stands
+    url: https://stands.vatsim-scandinavia.org
+  - name: Moodle
+    URL: https://moodle.vatsim-scandinavia.org/
+  - name: Control Center
+    URL: https://cc.vatsim-scandinavia.org/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
