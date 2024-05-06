@@ -16,9 +16,9 @@ status-website:
   # cname: status.daas.dk
   baseUrl: uptime
   logoUrl: https://vatsim-scandinavia.org/uploads/monthly_2021_06/negative_small2.png.ff31f759fa3f215103a3ac67a1da88e8.png
-  name: VATSIM Scandinavia uptime
+  name: 
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is our status page all of our services, they are been monitored and will automaticly be reported as down if there is an issue. If there is an issue and its not listed here, ask in #General on discord
   navbar:
     - title: Status
       href: /
