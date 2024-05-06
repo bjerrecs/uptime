@@ -7,8 +7,6 @@ sites:
     url: https://home.vatsca.org
   - name: Stands
     url: https://stands.vatsim-scandinavia.org
-  - name: Moodle
-    URL: https://moodle.vatsim-scandinavia.org/
   - name: Control Center
     URL: https://cc.vatsim-scandinavia.org/
 
