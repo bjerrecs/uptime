@@ -22,10 +22,10 @@
     "url": "https://cc.vatsim-scandinavia.org",
     "icon": "https://icons.duckduckgo.com/ip3/cc.vatsim-scandinavia.org.ico",
     "slug": "control-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1073,
@@ -33,7 +33,9 @@
     "timeWeek": 1002,
     "timeMonth": 1197,
     "timeYear": 1073,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-22": 1
+    }
   },
   {
     "name": "Moodle",
