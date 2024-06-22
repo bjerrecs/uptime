@@ -40,19 +40,19 @@
     "url": "https://moodle.vatsim-scandinavia.org/login/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/moodle.vatsim-scandinavia.org.ico",
     "slug": "moodle",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 844,
-    "timeDay": 413,
-    "timeWeek": 601,
-    "timeMonth": 972,
-    "timeYear": 844,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 839,
+    "timeDay": 486,
+    "timeWeek": 595,
+    "timeMonth": 960,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2024-06-22": 0
+      "2024-06-22": 12
     }
   }
 ]
